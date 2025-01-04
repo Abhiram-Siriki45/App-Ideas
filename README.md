@@ -1,8 +1,8 @@
-## 👇 **Practice Daily on iCodeThis.com** 👇
+##  **Practice This on iCodeThis.com** 👇
 
 [![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
 
-# :ledger: App Ideas Collection
+# :ledger: App Ideas Collection by [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👑
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
@@ -165,15 +165,11 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
-### Main Contributors 🙂🙂
-
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
-
 ## 100Days100Projects 🚀
 
 As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
 
-## Stars history
+<br>
+<br>
 
-[![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+[![Maintened by - Abhiram-Siriki45](https://img.shields.io/badge/Maintained%20by-Abhiram%20Siriki45-red)](https://github.com/Abhiram-Siriki45)
